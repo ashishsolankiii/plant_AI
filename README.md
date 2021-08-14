@@ -4,7 +4,6 @@
 
 ### <a href="https://plant49-ai.herokuapp.com/" target="_blank">https://plant49-ai.herokuapp.com/</a>
 
-## <img src="./Assets/web.gif" alt="demo"/>
 
  </div>
 
@@ -20,10 +19,6 @@ This project is an approach to the development of plant disease recognition mode
 use of deep convolutional networks. The developed model is able to recognize 38 different types of plant diseases out of of 14 different plants with the ability to distinguish plant leaves from their surroundings.
 
 ## Leaf Image Classification
-
-## <img src="./Assets/batch.png" alt="batch of image"/>
-
-This process for building a model which can detect the disease assocaited with the leaf image. The key points to be followed are:
 
 1. Data gathering
 
@@ -46,17 +41,9 @@ This process for building a model which can detect the disease assocaited with t
    The model was tested on total 17572 images of 38 classes.<br/>
    The model used for prediction on sample images. It can be seen below:
    <!-- <img src="" alt="index1" height="300px"/> -->
-   <div>
-   <img src="./Assets/out1.png" alt="index2" height="300px" width="450"/>
-   <img src="./Assets/out2.png" alt="index3" height="300px"  width="450"/>
-   </div>
 
 5. Various Model Architecture tried along with Learning Rate and Optimizer and various accuracy obtained with different models.
 
-  <img src="./Assets/models.png" alt="models" />
-
-All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
-<br/>
 
 ## Details about the model
 
@@ -82,13 +69,8 @@ All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyaji
 
 This project is Licensed under `MIT`
 
-## Explanation
-
-`To understand the code :` You can find the complete explanation to the code in [Article](https://medium.com/@soumyajit4419/plant-ai-c8fc95ed90e6?source=friends_link&sk=4707825cbaefa2dcaaa92d0e3ed5de01)
-
-
 ### Show your support
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/ashishsolanki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
